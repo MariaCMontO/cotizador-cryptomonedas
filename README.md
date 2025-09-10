@@ -31,6 +31,6 @@ Una aplicación web desarrollada con **React + TypeScript** que consume la **Cry
 Clona el repositorio e instala dependencias:
 
 ```bash
-git clone https://github.com/tu-usuario/crypto-tracker.git
-cd crypto-tracker
+git clone https://github.com/MariaCMontO/cotizador-cryptomonedas
+cd cotizador-cryptomonedas
 npm install
